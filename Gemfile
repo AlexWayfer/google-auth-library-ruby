@@ -16,7 +16,7 @@ group :development do
   gem "rspec", "~> 3.0"
   gem "simplecov", "~> 0.9"
   gem "sinatra"
-  gem "webmock", "~> 1.21"
+  gem "webmock", "~> 3.8"
 end
 
 platforms :jruby do
