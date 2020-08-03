@@ -10,7 +10,7 @@ group :development do
   gem "fakeredis", "~> 0.5"
   gem "google-style", "~> 1.24.0"
   gem "logging", "~> 2.0"
-  gem "rack-test", "~> 0.6"
+  gem "rack-test", "~> 1.1"
   gem "rake", "~> 10.0"
   gem "redis", "~> 3.2"
   gem "rspec", "~> 3.0"
